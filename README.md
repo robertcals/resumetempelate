@@ -1,13 +1,13 @@
-# [ClearCareer](http://startbootstrap.com/) 
+# Roberto Caldeira (http://startbootstrap.com/) 
 
-[Resume](https://izzydoesizzy.github.io/resumetemplate/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Izzy Piyale-Sheard](http://izzydoesizzy.com/).
+[Resume](https://robertcals.github.io/resumetempelate/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by Roberto caldeira (https://robertcals.github.io/profile/).
 
 ## Getting Started
 
 To use this theme, please take the following steps.
 1. Fork this repository on GitHub
 2. Make an edit to your site and commit the change
-3. Go to [http://YourGithubProfile.github.io/resumetemplate](http://izzydoesizzy.github.io/resumetemplate)
+3. Go to [http://YourGithubProfile.github.io/resumetemplate](https://robertcals.github.io/resumetempelate/)
 
 ## Adding a custom domain name
 1. In the main directory add a file named CNAME (without a file extension)
@@ -22,38 +22,4 @@ To use this theme, please take the following steps.
 ![Edit](/images/image1.png) ![Edit](/images/image2.png)
 ![Edit](/images/image3.png) ![Edit](/images/image4.png)
 
-
-## Bugs and Issues
-
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/clearcareer/ResumeTemplate/issues) here on GitHub.
-
-## Copyright and License
-
-Copyright 2016 ClearCareer. Code released under the [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
-
-## Attribution
-
-[IconMoon](https://icomoon.io/)  
-[FontAwesome](http://fontawesome.io/)  
-
-This resume template uses the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-Bruno Rodriguez - Timeline  
-- [Github: https://github.com/itbruno](https://github.com/itbruno)
-- [Twitter: https://twitter.com/_brunoweb](https://twitter.com/_brunoweb)
-
-Train Tracks Photo https://unsplash.com/@reddangelo16
-
-
-<hr>
-
-This project was developed by **Iskender Piyale-Sheard (aka: Izzy)**, the Community Manager at [Lighthouse Labs](http://bit.ly/izzydoesizzygithub) as a fun side project. 
-
-Come say hi on Twitter [@izzydoesizzy](http://www.twitter.com/izzydoesizzy)! 
-
-----
-> Iskender Piyale-Sheard: [www.izzydoesizzy.com](https://www.izzydoesizzy.com/) &nbsp;&middot;&nbsp;
-> LinkedIn: [@izzydoesizzy](https://www.linkedin.com/in/izzydoesizzy) &nbsp;&middot;&nbsp;
-> Twitter: [@izzydoesizzy](https://twitter.com/izzydoesizzy)
 
